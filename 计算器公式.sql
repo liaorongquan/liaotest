@@ -21,3 +21,6 @@ select * from hls_fin_calculator_ln hc where hc.calc_session_id = 904;
 --计算器头公式
 select * from hls_fin_calculator_hd_formula h where h.calc_session_id = 902;
 select hl.other_fee2,hl.* from hls_fin_calculator_ln_formula hl where hl.calc_session_id = 904 for update;
+
+
+y
