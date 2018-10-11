@@ -25,4 +25,4 @@ select hl.other_fee2,hl.* from hls_fin_calculator_ln_formula hl where hl.calc_se
 
 y
 
-k
+kk
